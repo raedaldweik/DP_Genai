@@ -13,3 +13,16 @@ pydub
 audio-recorder-streamlit
 altair
 openpyxl
+pandas
+streamlit
+altair
+python-dotenv
+openai
+SpeechRecognition
+pydub
+langdetect
+audio-recorder-streamlit
+langchain
+sqlalchemy
+langchain-community
+

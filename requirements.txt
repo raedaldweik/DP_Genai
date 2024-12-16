@@ -12,3 +12,4 @@ SpeechRecognition
 pydub
 audio-recorder-streamlit
 altair
+openpyxl

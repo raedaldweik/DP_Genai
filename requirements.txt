@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+openai
+langchain
+langchain_community
+langchain-openai
+SQLAlchemy
+pandas
+tiktoken
+langdetect
+SpeechRecognition
+pydub
+audio-recorder-streamlit
+altair
